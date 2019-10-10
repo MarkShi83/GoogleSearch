@@ -7,3 +7,5 @@ To-Do-List:
 2. Scheduled service run at specified time everyday to do the same search 
 3. Using Web API to insert and get the search results
 4. Generate some chart and report based on the search results history
+
+Website has been published to Azure it can be access from here https://googlesearch20191009114306.azurewebsites.net
